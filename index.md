@@ -9,8 +9,8 @@ Through personal and fluid writing, we aim to reveal the rhythms, pleasures, and
 
 ## 목차
 
-- [혹오옵?](hok-o-op.md)
-- [지켜야 할 세상이 너무 많다](too-many-worlds-to-protect.md)
+- [혹오옵?](essays/hok-o-op.md)
+- [지켜야 할 세상이 너무 많다](essays/too-many-worlds-to-protect.md)
 
 ---
 
