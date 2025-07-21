@@ -17,3 +17,11 @@ Through personal and fluid writing, we aim to reveal the rhythms, pleasures, and
 각 에세이 제목을 클릭하면 해당 글로 이동합니다.
 
 Click each title to read the full essay.
+
+※ 모든 에세이는 크리에이티브 커먼즈 저작자표시-비영리-변경금지(CC BY-NC-ND 4.0) 라이선스를 따르며,
+복제·공유는 자유롭게, 번역·변형·2차 저작물 작성은 원저자 및 운영자의 사전 승인 하에만 허용됩니다.
+자세한 사항은 LICENSE 파일을 참고하세요.
+
+※ All essays are licensed under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0).
+Sharing is allowed, but translation, adaptation, and derivative works require prior approval from the original author and curator.
+For details, please refer to the LICENSE file.
