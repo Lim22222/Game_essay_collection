@@ -4,7 +4,7 @@
 
 ## 목차
 
-- [지켜야 할 세상이 너무 많다](지켜야%20할%20세상이%20너무%20많다.md)
+- [지켜야 할 세상이 너무 많다](too-many-worlds-to-protect.md)
 
 ---
 
@@ -16,7 +16,7 @@ Welcome! This page is an open web zine collecting personal essays and reviews ab
 
 ## Table of Contents
 
-- [Too Many Worlds to Protect](지켜야%20할%20세상이%20너무%20많다.md)
+- [Too Many Worlds to Protect](too-many-worlds-to-protect.md)
 
 ---
 
