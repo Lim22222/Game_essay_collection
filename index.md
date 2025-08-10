@@ -11,6 +11,7 @@ This web zine gathers stories from gamers with diverse bodies and identities—q
 
 - [혹오옵?](essays/hok-o-op.md)
 - [지켜야 할 세상이 너무 많다](essays/too-many-worlds-to-protect.md)
+- [게임, 또 다른 나를 마주하다: 젠더, 소속감, 그리고 회복의 시공](essays/hadong.md)
 - [나를 사랑하지 않는 나의 도시, 바이오쇼크 인피니트, 2013. 그리고 엘리자베스](essays/Huin-01.md)
 ---
 
